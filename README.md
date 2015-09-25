@@ -7,15 +7,15 @@ A portable copy of SublimeText is very helpful, especially synced across multipl
 ## Usage
 1. Place these batch files inside of your portable install of Sublime Text.
 2. To install, run these scripts:
-  1. "_ addToDesktop.bat" - Creates a desktop shortcut to sublime_text.exe for the current user.
-  2. "_ addToStartMenu.bat" - Creates a start menu shortcut to sublime_text.exe for the current user.
-  3. "_ addToContextMenu.RunAsAdmin.bat" - Adds "Open With Sublime Text 3" context shortcut for files and folders. Must be run as admin.
-  4. "_  install.RunAsAdmin.bat" - Runs scripts 1 thru 3.
+  1. *_ addToDesktop.bat* - Creates a desktop shortcut to sublime_text.exe for the current user.
+  2. *_ addToStartMenu.bat* - Creates a start menu shortcut to sublime_text.exe for the current user.
+  3. *_ addToContextMenu.RunAsAdmin.bat* - Adds "Open With Sublime Text 3" context shortcut for files and folders. Must be run as admin.
+  4. *_  install.RunAsAdmin.bat* - Runs scripts 1 thru 3.
 3. To uninstall, run these scripts:
-  1. "_ remFromDesktop.bat" - Deletes the Sublime Text 3 shortcut from current user's desktop.
-  2. "_ remFromStartMenu.bat" - Deletes the Sublime Text 3 shortcut from current user's start menu.
-  3. "_ remFromContextMenu.RunAsAdmin.bat" - Deletes the "Open With Sublime Text 3" context menu entries.
-  4. "_  uninstall.RunAsAdmin.bat" - Runs scripts 1 thru 3.
+  1. *_ remFromDesktop.bat* - Deletes the Sublime Text 3 shortcut from current user's desktop.
+  2. *_ remFromStartMenu.bat* - Deletes the Sublime Text 3 shortcut from current user's start menu.
+  3. *_ remFromContextMenu.RunAsAdmin.bat* - Deletes the "Open With Sublime Text 3" context menu entries.
+  4. *_  uninstall.RunAsAdmin.bat* - Runs scripts 1 thru 3.
 
 ## Todo
 - Before any script does anything, verify sublime_text.exe exists in the current directory, else error out.
