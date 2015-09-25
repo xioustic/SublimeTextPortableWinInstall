@@ -23,5 +23,12 @@ Usage
 ToDo
 ----
 - Before any script does anything, verify sublime_text.exe exists in the current directory, else error out.
-- Fix the naming scheme? It's named the way it is so the batch files 'float' above the other portable sublime text files.
+- Fix the naming scheme? It's named the way it is so the batch files 'float' above the other portable sublime text files when sorted by name in Windows Explorer.
 - If sublime_text.exe doesn't exist in current directory, move down a directory and check/operate from there if it exists. This would allow users to clone this into their portable sublime text directory and keep it segregated from the other native sublime text files.
+- Add functionality for adding subl.exe to path.
+- Make install interactive and ask for flags:
+  - '' or 'all' for all flags
+  - 's' for start menu
+  - 'd' for desktop
+  - 'c' for context menu
+  - 'p' for path
