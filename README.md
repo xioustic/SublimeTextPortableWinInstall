@@ -4,7 +4,7 @@ Batch scripts to "install/uninstall" portable version of SublimeText on Windows.
 
 What This Does
 --------------
-A portable copy of SublimeText is very helpful, especially synced across multiple machines. However, we lose the convenience of context menus and desktop/start menu without some drag/drop and registry tinkery. These scripts automate that process.
+A portable copy of SublimeText is very helpful, especially synced across multiple machines. However, we lose the convenience of context menus and desktop/start menu shortcuts without some drag/drop and registry tinkery. These scripts automate that process.
 
 Usage
 -----
